@@ -14,3 +14,4 @@ Welcome to the US State Quiz project! This interactive quiz allows users to iden
 - Python
 - Turtle
 
+![US_states](https://github.com/jeevan-d-m/STATES_OF_US/assets/96460761/4bbad0de-c921-4f32-8c6f-52f116bd42c5)
